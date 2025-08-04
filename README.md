@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="file_000000001004624398c7b36c679e78dc.png" alt="FIRQAH-X" width="300" height="300" />
+  <img src="file_000000001004624398c7b36c679e78dc.png" alt="FIRQAH-X" style="width: 100%; height: auto; max-width: 800px;" />
   
 </div>
 
