@@ -1,5 +1,2 @@
-<div align="center">
-  
-  <span style="color: #0066FF; font-size: 64px; font-weight: bold;">FIRQAH-X</span>
+div align="center">![Welcome Banner](https://media.wickdev.me/dgyaMlYuzi.jpg)</div>
 
-</div>
