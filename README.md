@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![FIRQAH-X](https://avatars.githubusercontent.com/u/your-username?v=4&s=200)
+  ![FIRQAH-X](https://via.placeholder.com/200x200/00FF00/FFFFFF?text=FIRQAH-X)
   
   ---
   
