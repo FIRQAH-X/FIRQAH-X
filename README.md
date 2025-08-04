@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![FIRQAH-X](file_000000001004624398c7b36c679e78dc.png)
+  <img src="file_000000001004624398c7b36c679e78dc.png" alt="FIRQAH-X" width="150" height="150" />
   
   ---
   
