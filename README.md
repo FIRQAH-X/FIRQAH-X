@@ -1,6 +1,6 @@
-<div style="text-align: right; margin-right: 0; padding-right: 0;">
+<div style="position: relative; text-align: right; margin: 0; padding: 0;">
   
-  <img src="file_000000001004624398c7b36c679e78dc.png" alt="FIRQAH-X" width="150" height="150" style="margin-right: 0; padding-right: 0;" />
+  <img src="file_000000001004624398c7b36c679e78dc.png" alt="FIRQAH-X" width="150" height="150" style="position: absolute; top: 0; right: 0; margin: 0; padding: 0;" />
   
 </div>
 
