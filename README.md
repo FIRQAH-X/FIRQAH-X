@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![FIRQAH-X](https://via.placeholder.com/200x200/00FF00/FFFFFF?text=FIRQAH-X)
+  ![FIRQAH-X](file_000000001004624398c7b36c679e78dc.png)
   
   ---
   
