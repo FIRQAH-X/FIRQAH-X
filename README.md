@@ -1,5 +1,5 @@
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=4000&pause=2000&color=00FF00&center=true&vCenter=true&random=false&width=600&height=100&lines=FIRQAH-X)](https://git.io/typing-svg)
+  ![FIRQAH-X](file_000000001004624398c7b36c679e78dc.png)
 
 </div>
