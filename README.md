@@ -3,7 +3,7 @@
   # 🧠 Who We Are
   
   **FIRQAH-X** is an elite cybersecurity collective and ethical hacking crew.  
-                                                   Founded **December 2019**.  
+  .................................................Founded **December 2019**.  
   Emerged publicly **August 2025**.
 
   Started by **MR.DARCH**,  
