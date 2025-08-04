@@ -4,9 +4,19 @@
   
 </div>
 
-<div align="left">
+<div align="left" style="color: white;">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=false&vCenter=true&random=false&width=500&lines=##+🧠+Who+We+Are;FIRQAH-X+is+an+unbreakable+crew.;Founded+12%2F2019.;Brought+to+light+08%2F2025.;Started+by+MR.DARCH%2C;to+unite+the+sharpest+hackers+and+programmers+under+one+name+and+belief.;Always+on+the+side+of+truth.;Justice+is+not+a+choice+—+it's+our+code.)](https://git.io/typing-svg)
+  ## 🧠 Who We Are
+
+  **FIRQAH-X** is an unbreakable crew.  
+  Founded **12/2019**.  
+  Brought to light **08/2025**.
+
+  Started by **MR.DARCH**,  
+  to unite the sharpest hackers and programmers under one name and belief.
+
+  Always on the side of truth.  
+  **Justice is not a choice — it's our code.**
 
 </div>
 
