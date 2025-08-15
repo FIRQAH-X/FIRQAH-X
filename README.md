@@ -22,8 +22,8 @@
 
 FIRQAH-X is a crew of freinds, founded by MR.DARCH(felex) : 12/2019 brought to light 08/2025.
 
+FIRQAH-X continues to grow as a hub for experts across many specializations, includind: the most programing languages & peetratio testing &ethical hacking & reverse engenering & malware analyses 
 
-I am a student developer [@stocksmith](https://github.com/stocksmith) where we actively manage the stocksmith package is which is an open-source power development tool for stock data analysis including msart machine-learning and NLP functions in the backend. I work on writing and maintaining the analytic and machine-learning functions. 
 
 Do visit my Medium page where I ocassioanlly publish about my experiences exploring the world of open-source development and how this year has been so unique. 
 
